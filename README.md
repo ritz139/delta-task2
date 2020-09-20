@@ -18,4 +18,7 @@ Change the block in apache2.conf as:
     Options Indexes FollowSymLinks
     AllowOverride All
     Require all granted
+    
 </Directory>
+
+
